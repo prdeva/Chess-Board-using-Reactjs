@@ -1,0 +1,44 @@
+h1{
+    text-align: left;
+    margin: 10px;
+}
+.white{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(244, 241, 198);
+}
+
+.black{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(5, 81, 12);
+}
+.size{
+    width: 400px;
+    height: 400px;
+    border: 1px solid;
+}
+.align{
+    display: flex;
+}
+.div1{
+    display: flex;
+     justify-content: left;
+}
+.ele{
+    color: white;
+}
+.one{
+    height: 30px;
+    width: 30px;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+.container{
+    margin-left: 450px;
+    margin-top: 150px;
+
+}
+h3{
+    margin-left: 130px;
+}
